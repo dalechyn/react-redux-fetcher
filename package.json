@@ -1,0 +1,15 @@
+{
+  "name": "react-redux-fetcher",
+  "version": "1.0.0",
+  "description": "Wrapper for any asynchronous actions to be called in React Concurrent Mode API",
+  "main": "index.js",
+  "keywords": [
+    "react-redux-fetcher",
+    "react-redux",
+    "react",
+    "redux",
+    "fetch"
+  ],
+  "author": "Vladyslav Dalechyn <hotwater438@tutanota.com>",
+  "license": "MIT"
+}
