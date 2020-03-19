@@ -1,6 +1,6 @@
 {
   "name": "react-redux-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for any asynchronous actions to be called in React Concurrent Mode API",
   "main": "index.js",
   "keywords": [
